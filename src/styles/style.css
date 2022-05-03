@@ -1,3 +1,20 @@
 h1{
     color: darkblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    
+}
+
+.header {
+    background-color: rgb(114, 108, 108);
+}
+
+li {
+    color: rgb(0, 16, 85);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
 }
