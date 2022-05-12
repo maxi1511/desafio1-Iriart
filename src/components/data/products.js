@@ -1,0 +1,51 @@
+export const products = [
+  {
+    id: 1,
+    title: "Las Perdices Malbec",
+    price: 1200,
+    stock: 15,
+    image: "../vinos/1 las perdices.png",
+  },
+  {
+    id: 2,
+    title: "Rutini Cabernet Sauvignon",
+    price: 1900,
+    stock: 25,
+    image: "../vinos/2 rutini.jpeg",
+  },
+  {
+    id: 3,
+    title: "Las Perdices Sauvignon Blanc",
+    price: 1200,
+    stock: 15,
+    image: "../vinos/3 las perdices.jpeg",
+  },
+  {
+    id: 4,
+    title: "Rutini Merlot",
+    price: 2000,
+    stock: 12,
+    image: "../vinos/4 rutini.jpeg",
+  },
+  {
+    id: 5,
+    title: "Las Perdices Malbec Reserva",
+    price: 1600,
+    stock: 15,
+    image: "../vinos/5 las perdices.jpeg",
+  },
+  {
+    id: 6,
+    title: "Rutini Cabernet francc",
+    price: 2300,
+    stock: 15,
+    image: "../vinos/6 rutini.jpeg",
+  },
+  {
+    id: 7,
+    title: "Las Perdices Red Blend",
+    price: 1300,
+    stock: 15,
+    image: "../vinos/7 las perdices.jpeg",
+  },
+];

@@ -31,3 +31,7 @@ li {
 .greeting {
     color: rgb(90, 2, 64);
 }
+
+.CardImg{
+    width: 100% !important;
+}
